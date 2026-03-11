@@ -1,0 +1,95 @@
+
+============================================================
+  LOCO PILOT DISTRACTION DETECTION
+  Phase 1 : Gadget / Mobile Usage
+  Source  : data/cabin_video.mp4
+  Video   : 848×480  @  6.0 fps  (119 frames)
+  Output  : outputs/gadget_detection_output.mp4
+  Log     : logs/distraction_log.txt
+  Press Q / ESC to stop early
+============================================================
+
+
+============================================================
+  Processing complete
+  Frames processed : 119
+  Output video     : outputs/gadget_detection_output.mp4
+  Distraction log  : logs/distraction_log.txt
+============================================================
+
+
+============================================================
+  LOCO PILOT DISTRACTION DETECTION
+  Phase 1 : Gadget / Mobile Usage
+  Source  : data/cabin_video.mp4
+  Video   : 848×480  @  6.0 fps  (119 frames)
+  Output  : outputs/gadget_detection_output.mp4
+  Log     : logs/distraction_log.txt
+  Press Q / ESC to stop early
+============================================================
+
+
+============================================================
+  Processing complete
+  Frames processed : 119
+  Output video     : outputs/gadget_detection_output.mp4
+  Distraction log  : logs/distraction_log.txt
+============================================================
+
+
+============================================================
+  LOCO PILOT DISTRACTION DETECTION
+  Phase 1 : Gadget / Mobile Usage
+  Source  : data/cabin_video.mp4
+  Video   : 848×480  @  6.0 fps  (119 frames)
+  Output  : outputs/gadget_detection_output.mp4
+  Log     : logs/distraction_log.txt
+  Press Q / ESC to stop early
+============================================================
+
+
+============================================================
+  Processing complete
+  Frames processed : 119
+  Output video     : outputs/gadget_detection_output.mp4
+  Distraction log  : logs/distraction_log.txt
+============================================================
+
+
+============================================================
+  LOCO PILOT DISTRACTION DETECTION
+  Phase 1 : Gadget / Mobile Usage
+  Source  : data/cabin_video.mp4
+  Video   : 848×480  @  6.0 fps  (119 frames)
+  Output  : outputs/gadget_detection_output.mp4
+  Log     : logs/distraction_log.txt
+  Press Q / ESC to stop early
+============================================================
+
+
+============================================================
+  Processing complete
+  Frames processed : 119
+  Output video     : outputs/gadget_detection_output.mp4
+  Distraction log  : logs/distraction_log.txt
+============================================================
+
+
+============================================================
+  LOCO PILOT DISTRACTION DETECTION
+  Phase 1 : Gadget / Mobile Usage
+  Source  : data/cabin_video.mp4
+  Video   : 848×480  @  6.0 fps  (119 frames)
+  Output  : outputs/gadget_detection_output.mp4
+  Log     : logs/distraction_log.txt
+  Press Q / ESC to stop early
+============================================================
+
+
+============================================================
+  Processing complete
+  Frames processed : 119
+  Output video     : outputs/gadget_detection_output.mp4
+  Distraction log  : logs/distraction_log.txt
+============================================================
+
